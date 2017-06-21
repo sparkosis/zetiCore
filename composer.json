@@ -1,0 +1,20 @@
+{
+    "name": "root/test",
+    "authors": [
+        {
+            "name": "nramos",
+            "email": "contact@nicolas-r.fr"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zeti\\Framework\\": "src"
+        },
+        "files": [
+
+        ]
+    }
+}
